@@ -1,0 +1,120 @@
+#01_Operadores y estructuras de control
+
+EJERCICIO:
+ * - Crea ejemplos utilizando todos los tipos de operadores de tu lenguaje:
+ *   Aritméticos, lógicos, de comparación, asignación, identidad, pertenencia, bits...
+ *   (Ten en cuenta que cada lenguaje puede poseer unos diferentes)
+ * - Utilizando las operaciones con operadores que tú quieras, crea ejemplos
+ *   que representen todos los tipos de estructuras de control que existan
+ *   en tu lenguaje:
+ *   Condicionales, iterativas, excepciones...
+ * - Debes hacer print por consola del resultado de todos los ejemplos.
+ *
+ * DIFICULTAD EXTRA (opcional):
+ * Crea un programa que imprima por consola todos los números comprendidos
+ * entre 10 y 55 (incluidos), pares, y que no son ni el 16 ni múltiplos de 3.
+
+
+#ejemplos de operadores en python
+
+#Aritmétricos
+
+Suma = 4532 + 9872 
+Resta = 4532 - 9872 
+División = 3/6
+Multiplicación = 56 * 87
+Modulo 
+Potencia 
+División_entera
+Print ("Suma:         )   
+print ("Resta:            )
+print ("Disión:        )
+print
+
+#Lógicos
+
+mayor_que
+menor_que
+igualdad
+mayor_igualdad
+menor_igualdad
+desigualdad
+
+#De comparación
+
+
+
+
+
+
+
+
+
+#Asignación
+
+X = 0
+print (x)
+
+Suma = print (X) += 
+
+
+
+
+
+
+
+
+#Identidad
+
+
+
+# is - Devuelve True si los operando se refieren a los objetos 
+
+
+
+
+#Pertencia 
+
+
+
+
+
+#Bits
+
+
+print AND
+print
+
+
+
+#For
+
+
+
+#While
+
+
+
+#Dificultad extra
+
+for in i range (56, 23)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
